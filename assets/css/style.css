@@ -501,6 +501,19 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+@media only screen and (max-width: 1515px) {
+  .customthibaud {
+     margin-top:92px;
+  }
+  #custthibaud {
+    margin-top:92px;
+  }
+}
+
+.tructhibaud {
+  margin-top: 17px;
+}
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
